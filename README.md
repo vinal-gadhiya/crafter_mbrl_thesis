@@ -6,6 +6,9 @@ This repository contains the code accompanying the master’s thesis:
 Author: **Vinal Jitendrabhai Gadhiya**  
 University of Texas at Arlington
 
+📄 **Full Technical Report:**  
+https://mavmatrix.uta.edu/cse_theses/537/
+
 The work investigates how different sequence-modeling architectures—**Transformers**, **GRUs**, and a **Hybrid Transformer–GRU model**—perform as **world models** for long-horizon, sparse-reward reinforcement learning tasks.
 
 ---
