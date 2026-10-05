@@ -1,6 +1,8 @@
 # Transformer and Recurrent Architectures for World Modeling in Long-Horizon Reinforcement Learning
 
-This repository contains the code accompanying the master’s thesis:
+# **⚠️ NOTE: THIS REPOSITORY CONTAINS ONLY A FRACTION OF THE ORIGINAL THESIS CODEBASE**
+
+**This repository does not contain the full or final codebase from my thesis research. It currently includes only a small portion of the original implementation. I am continuing to work on and extend this research, so the complete research code is not publicly available at this time.**
 
 **“Transformer and Recurrent Architectures for Dynamics Prediction and Policy Learning on Long-Horizon Tasks”**  
 Author: **Vinal Jitendrabhai Gadhiya**  
